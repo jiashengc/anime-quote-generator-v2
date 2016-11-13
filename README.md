@@ -3,7 +3,7 @@ A random quote generator that pumps out random anime quotes from various anime c
 The chance of generating a quote is based on individual characters not quotes. Meaning that a character with more quotes will have the same chance of appearing as a character with less quotes.
 
 ## Adding more quotes
-Navigate to the "script.js" repository and commit the following to the file (Remember to check if the character exists first before adding):
+Navigate to the "script.js" in the repository and commit the following to the file (Remember to check if the character exists first before adding):
 
 ```javascript
 character[insertnumberhere] = {
